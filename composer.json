@@ -1,0 +1,15 @@
+{
+    "name": "john/projet_toto",
+    "description": "A freakin exercice from course - Gestion de base de donnees webforce3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "shanygames@gmail.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.12",
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
